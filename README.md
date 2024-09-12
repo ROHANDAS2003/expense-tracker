@@ -46,13 +46,9 @@ After cloning, the folder structure will look like this:
 expense-tracker/
 
 │
-
 ├── expense_tracker.py # Main Python script for the application
-
 ├── expenses.csv # CSV file storing expenses
-
 ├── README.md # (Optional) A file for documenting the project
-
 └── LICENSE # (Optional) License information
 
 - expense_tracker.py: The script containing the core logic of the expense tracker.
