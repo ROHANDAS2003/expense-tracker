@@ -6,7 +6,7 @@ To get started with the **Expense Tracker** project, follow these steps:
 
 First, clone the repository from GitHub using the following command:
 
-git clone <https://github.com/your-username/expense-tracker.git>
+git clone <https://github.com/ROHANDAS2003/expense-tracker>
 
 (Replace your-username with your actual GitHub username if needed.)
 
